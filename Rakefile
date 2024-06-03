@@ -4,3 +4,11 @@
 require_relative "config/application"
 
 Rails.application.load_tasks
+
+#!/usr/bin/ruby -wKU
+
+task :default => :run
+
+task :run do
+  require './lib/hello'
+end
