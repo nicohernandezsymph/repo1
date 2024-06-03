@@ -1,1 +1,1 @@
-BLUE
+GOLD
