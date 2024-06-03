@@ -1,1 +1,1 @@
-blue
+BLUE
